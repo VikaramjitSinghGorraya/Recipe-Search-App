@@ -17,8 +17,8 @@ Using the platform is quite simple. Just click on the search button, enter the n
 
 # Screenshots:
 
-<img src="./src/screenshots/Screenshot1.jpg">
-<img src="./src/screenshots/Screenshot2.png">
-<img src="./src/screenshots/Screenshot3.png">
+<img src="./screenshots/Screenshot1.jpg">
+<img src="./screenshots/Screenshot2.png">
+<img src="./screenshots/Screenshot3.png">
 
 
